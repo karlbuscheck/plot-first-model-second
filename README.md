@@ -4,7 +4,7 @@
 
 In this notebook, we'll explore one of the most intuitive -- and universally applicable -- business use cases for machine learning: predicting customer churn. After all, who wants to lose a customer?
 
-For this deep dive, we'll take a look at a popular data science/ML dataset -- the "Telco-Customer-Churn.csv" dataset, which was originally created by IBM. The tech giant designed this synthetic dataset to simulate customer behavior at a fictitious telecom company for use with Watson Analytics and other AI tools. You can read all about it right here on GitHub.
+For this deep dive, we'll take a look at a popular data science/ML dataset -- the **"Telco-Customer-Churn.csv" dataset**, which was originally created by IBM. The tech giant designed this synthetic dataset to simulate customer behavior at a fictitious telecom company for use with Watson Analytics and other AI tools. You can read all about it right here on GitHub.
 
 Along the way, we'll learn all about data preprocessing, and powerful and elegant transformers like `SimpleImputer`, `OneHotEncoder`, `make_pipeline`, and `make_column_transformer`.
 
